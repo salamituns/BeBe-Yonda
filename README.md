@@ -4,13 +4,10 @@
 
 ![App Screenshot](https://www.basicthinking.de/blog/wp-content/uploads/2020/10/baby-yoda-foto-screenshot-youtube.jpg)
 
-* [General info]
+## General info
 
 This project simple explores the application of unsupervised machine learning algorithms to predict in-principle the location of missing Bebe Yonda in the galaxy.
 
-
-
-d
 ## 
 
 ##  Tools using
