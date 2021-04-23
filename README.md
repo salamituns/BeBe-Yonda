@@ -1,6 +1,6 @@
 # BeBe-Yonda
 
-##By Team Obiwan
+## By Team Obiwan
 
 ## Table of contents
 
